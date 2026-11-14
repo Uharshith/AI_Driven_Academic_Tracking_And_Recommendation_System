@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="180" alt="AI Student Tracking System Logo"/>
+  <img src="AI Academic Tracking System_spring.png" width="500" hieght="500" alt="AI Student Tracking System Logo"/>
 </p>
 
 <h1 align="center">🚀 AI Driven Student Academic Tracking & Recommendation System</h1>
